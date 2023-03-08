@@ -12,6 +12,8 @@ body{
 .div{
     width: 500px;
     height: 200px;
-    background-color: darkgoldenrod;
- 
+ margin-left: 400px;
+ background-image: url(./pizz.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
 }
